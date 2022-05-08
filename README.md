@@ -1,1 +1,1 @@
-# A personal Blog on GitHub, uploaded by GH.
+A personal Blog on GitHub, uploaded by GH.
